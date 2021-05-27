@@ -42,9 +42,9 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
+<p align="center">
 
-  <code><img height="50" src="https://www.svgrepo.com/show/312259/github.svg"></code>
+  <code><img height="50"  src="https://www.svgrepo.com/show/312259/github.svg"></code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
@@ -53,10 +53,17 @@
   <code><img height="50" src="https://www.svgrepo.com/show/303293/bootstrap-4-logo.svg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"> </code>
-  <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>
+  <code><img height="50"  src="https://upload.wikimedia.org/wikipedia/commons/4/44/Spring_Framework_Logo_2018.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg"></code>
   <code><img height="50" src="https://img.icons8.com/wired/64/000000/postman-api.png"></code>
+ <code><img height="50" src="https://img.icons8.com/color/48/000000/adobe-photoshop.png"></code>
+ <code><img height="50" src="https://img.icons8.com/color/48/000000/figma.png"></code>
+ <code><img height="50" src="https://img.icons8.com/nolan/64/xml.png"></code>
+ <code><img height="50" src="https://img.icons8.com/color/48/000000/thymeleaf.png"></code>
+ <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_%28Software%29_logo.svg"></code>
+ <code><img height="50" src="https://img.icons8.com/color/48/000000/tomcat.png"></code>
+ 
   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
