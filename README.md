@@ -9,14 +9,12 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sergiu Voloc </h1>
 <h3 align="center">Computer Science Engineer | Full Stack Web Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sergiu-voloc/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/38067667/163561835-b229e725-9de2-45e6-89ff-f2526d7365a2.png)" alt="linkedin" height="30" width="30" /></a>  &nbsp;	&nbsp;
-<a href="https://www.instagram.com/sergiu_voloc/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/38067667/163561893-c8c9d8cf-9169-4cb9-a504-874a4ec89ec6.png)" alt="instagram" height="30" width="30" /></a> &nbsp;	&nbsp;
+<a href="https://www.linkedin.com/in/sergiu-voloc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38067667/163564540-9f2ad0f1-c944-404a-8006-dae3bdbee430.png?raw=true" alt="linkedin" height="30" width="30" /> </a>  &nbsp;	&nbsp;
+<a href="https://www.instagram.com/sergiu_voloc/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/38067667/163563861-3f712909-ab6e-49f5-8b7f-c9a303692ad1.png?raw=true"  alt="instagram" height="30" width="30" /> </a> &nbsp;	&nbsp;
 <a href="https://www.facebook.com/sergiu.voloc.1/" target="blank"><img align="center" src="https://www.svgrepo.com/show/44069/facebook.svg" alt="facebook" height="35" width="35" /></a> &nbsp;	&nbsp;
  <a href = "mailto: sergiuvoloc0@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 </p>
-
-
 
 <p align="center">
   <em>
@@ -30,11 +28,10 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-
 <!-- ✔ 🔭 I’m currently working on a e-commerce site what can also generate Paint by Numbers pictures from real photos! <br> -->
+<!--✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>-->
 ✔ 🌱 I’m currently learning Java Spring Framework. <br>
 ✔ 👯 I’m looking to collaborate on interesting projects that shift the world ahead. <br>
-<!--✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>-->
 ✔ 💬 Ask me about anything. <br>
 ✔ 📫 How to reach me: SergiuVoloc0@gmail.com <br>
 ✔ ⚡ Fun facts: I'm vegetarian & love riding bike for dozens of miles!<br><br><br><br>
