@@ -31,10 +31,10 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
---✔ 🔭 I’m currently working on a e-commerce site what can also generate Paint by Numbers pictures from real photos! <br>--
+<!-- ✔ 🔭 I’m currently working on a e-commerce site what can also generate Paint by Numbers pictures from real photos! <br> -->
 ✔ 🌱 I’m currently learning Java Spring Framework. <br>
 ✔ 👯 I’m looking to collaborate on interesting projects that shift the world ahead. <br>
---✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>--
+<!--✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>-->
 ✔ 💬 Ask me about anything. <br>
 ✔ 📫 How to reach me: SergiuVoloc0@gmail.com <br>
 ✔ ⚡ Fun facts: I'm vegetarian & love riding bike for dozens of miles!<br><br><br><br>
