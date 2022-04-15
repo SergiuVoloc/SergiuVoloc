@@ -1,16 +1,16 @@
 
  <p align="center">
-&nbsp;	&nbsp; <img src="https://img.shields.io/badge/Age-23-blue" /> 	&nbsp;	&nbsp;
+&nbsp;	&nbsp; <img src="https://img.shields.io/badge/Age-24-blue" /> 	&nbsp;	&nbsp;
   <img src="https://img.shields.io/badge/Focus-Java%20Spring-brightgreen" />	&nbsp;	&nbsp;
-  <img src="https://img.shields.io/badge/Location-Craiova-success" />	&nbsp;	&nbsp;
+  <img src="https://img.shields.io/badge/Location-Holywood,UK-success" />	&nbsp;	&nbsp;
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian%20%26%20Romanian-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Sergiu Voloc </h1>
 <h3 align="center">Computer Science Engineer | Full Stack Web Developer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/sergiu-voloc/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="linkedin" height="30" width="30" /></a>  &nbsp;	&nbsp;
-<a href="https://www.instagram.com/sergiu_voloc/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="instagram" height="30" width="30" /></a> &nbsp;	&nbsp;
+<a href="https://www.linkedin.com/in/sergiu-voloc/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/38067667/163561835-b229e725-9de2-45e6-89ff-f2526d7365a2.png)" alt="linkedin" height="30" width="30" /></a>  &nbsp;	&nbsp;
+<a href="https://www.instagram.com/sergiu_voloc/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/38067667/163561893-c8c9d8cf-9169-4cb9-a504-874a4ec89ec6.png)" alt="instagram" height="30" width="30" /></a> &nbsp;	&nbsp;
 <a href="https://www.facebook.com/sergiu.voloc.1/" target="blank"><img align="center" src="https://www.svgrepo.com/show/44069/facebook.svg" alt="facebook" height="35" width="35" /></a> &nbsp;	&nbsp;
  <a href = "mailto: sergiuvoloc0@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
@@ -20,11 +20,10 @@
 
 <p align="center">
   <em>
-    Hello, I am Sergiu Voloc a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Craiova</b>, Romania </a>. <br>
-    <b>A passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Java Programmer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with the <b>Spring Framework</b> and always lookig for find new tools to create something special 
+    <b> I consider myslef a passionate self learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Java Programmer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the <b>Spring Framework</b> and always lookig for new tools to create special products.
   </em> 
-  <br>
+  <br><br>
   <b><i align="center">Quote : "You don't need to be great to start. But you have to start to be great.”</i></b>
 </p>
 <br><br>
@@ -32,13 +31,13 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
-✔ 🔭 I’m currently working on a e-commerce site what can also generate Paint by Numbers pictures from real photos! <br>
+--✔ 🔭 I’m currently working on a e-commerce site what can also generate Paint by Numbers pictures from real photos! <br>--
 ✔ 🌱 I’m currently learning Java Spring Framework. <br>
 ✔ 👯 I’m looking to collaborate on interesting projects that shift the world ahead. <br>
-✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>
+--✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>--
 ✔ 💬 Ask me about anything. <br>
 ✔ 📫 How to reach me: SergiuVoloc0@gmail.com <br>
-✔ ⚡ Fun fact: I'm vegetarian.<br><br><br><br>
+✔ ⚡ Fun facts: I'm vegetarian & love riding bike for dozens of miles!<br><br><br><br>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
