@@ -33,7 +33,6 @@
 ✔ 🌱 I’m currently learning Java Spring Framework. <br>
 ✔ 👯 I’m looking to collaborate on interesting projects that shift the world ahead. <br>
 ✔ 💬 Ask me about anything. <br>
-✔ 📫 How to reach me: SergiuVoloc0@gmail.com <br>
 ✔ ⚡ Fun facts: I'm vegetarian & love riding bike for dozens of miles!<br><br><br><br>
 
 
