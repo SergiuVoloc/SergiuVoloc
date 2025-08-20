@@ -1,8 +1,8 @@
 
  <p align="center">
-&nbsp;	&nbsp; <img src="https://img.shields.io/badge/Age-24-blue" /> 	&nbsp;	&nbsp;
+&nbsp;	&nbsp; <img src="https://img.shields.io/badge/Age-28-blue" /> 	&nbsp;	&nbsp;
   <img src="https://img.shields.io/badge/Focus-Java%20Spring-brightgreen" />	&nbsp;	&nbsp;
-  <img src="https://img.shields.io/badge/Location-Holywood,UK-success" />	&nbsp;	&nbsp;
+  <img src="https://img.shields.io/badge/Location-Bangor,Northern Ireland,UK-success" />	&nbsp;	&nbsp;
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Russian%20%26%20Romanian-brightgreen" />
 </p>
 <hr>
@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/sergiu-voloc/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/38067667/163564540-9f2ad0f1-c944-404a-8006-dae3bdbee430.png?raw=true" alt="linkedin" height="30" width="30" /> </a>  &nbsp;	&nbsp;
 <a href="https://www.instagram.com/sergiu_voloc/" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/38067667/163563861-3f712909-ab6e-49f5-8b7f-c9a303692ad1.png?raw=true"  alt="instagram" height="30" width="30" /> </a> &nbsp;	&nbsp;
 <a href="https://www.facebook.com/sergiu.voloc.1/" target="blank"><img align="center" src="https://www.svgrepo.com/show/44069/facebook.svg" alt="facebook" height="35" width="35" /></a> &nbsp;	&nbsp;
- <a href = "mailto: sergiuvoloc0@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+ <a href = "mailto: sergiuvoloc0@gmail.com">  <svg  xmlns="http://www.w3.org/2000/svg"  width="24"  height="24"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round"  class="icon icon-tabler icons-tabler-outline icon-tabler-mail"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M3 7a2 2 0 0 1 2 -2h14a2 2 0 0 1 2 2v10a2 2 0 0 1 -2 2h-14a2 2 0 0 1 -2 -2v-10z" /><path d="M3 7l9 6l9 -6" /></svg> </a>
 </p>
 </p>
 
@@ -30,7 +30,7 @@
 
 <!-- ✔ 🔭 I’m currently working on a e-commerce site what can also generate Paint by Numbers pictures from real photos! <br> -->
 <!--✔ 🤔 I’m looking for help with Image Processing methods using Java and alghorithms. <br>-->
-✔ 🌱 I’m currently learning Java Spring Framework. <br>
+✔ 🌱 I’m currently mastering Java Spring Framework. <br>
 ✔ 👯 I’m looking to collaborate on interesting projects that shift the world ahead. <br>
 ✔ 💬 Ask me about anything. <br>
 ✔ ⚡ Fun facts: I'm vegetarian & love riding bike for dozens of miles!<br><br><br><br>
